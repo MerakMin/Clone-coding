@@ -13,16 +13,16 @@ function Navber(props){
                     <Home/>
                 </div>
                 <div className="qHeader_icon">
-                    
+                    <BorderAllRounded/>
                 </div>
                 <div className="qHeader_icon">
-                    
+                    <AssigmentIndOutlined/>
                 </div>
                 <div className="qHeader_icon">
-                    
+                    <PeopleAltOutlined/>
                 </div>
+                <NotificationsOutlined/>
                 <div className="qHeader_icon">
-                    
                 </div>
             </div>
         </div>
